@@ -56,11 +56,33 @@ x = memoryview(bytes(5))	##memorybite
 
 x = None ## nonetype
 
+x = 5
+print(type(x))
+## int
 
+x = "Hello World"
+print(type(x))
+## str
 
+x = 20.5
+print(type(x))
+## float
 
+x = ["apple", "banana", "cherry"]
+print(type(x))
+## list
 
+x = ("apple", "banana", "cherry")
+print(type(x))
+## tiple
 
+x = {"name" : "John", "age" : 36}
+print(type(x))
+## dict
+
+x = True
+print(type(x))
+## bool
 
 
 
