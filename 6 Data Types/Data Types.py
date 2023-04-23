@@ -26,7 +26,7 @@ x = 1.0 ## float
 x = 1j ##comlex
 
 x = ["apple", "apple", "apple", "apple"] ## list
-
+t
 x = ("apple", "apple", "apple", "apple") ## tuple  
 
 x = range(4) ##range 
